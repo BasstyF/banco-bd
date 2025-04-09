@@ -1,5 +1,6 @@
 --Creación de Base de datos de un Banco Ficticio:
 --Hola, esto es una prueba
+--Esto es otra prueba
 
 CREATE DATABASE banco;
 use banco;
