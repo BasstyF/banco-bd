@@ -1,6 +1,5 @@
 --Creación de Base de datos de un Banco Ficticio:
---Prueba
---Prueba y mas prueba
+--Esto solamente es una prueba
 
 CREATE DATABASE banco;
 use banco;
