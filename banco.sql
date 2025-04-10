@@ -1,6 +1,6 @@
 --Creación de Base de datos de un Banco Ficticio:
---Hola, esto es una prueba
---Esto es otra prueba
+--Prueba
+--Prueba y mas prueba
 
 CREATE DATABASE banco;
 use banco;
@@ -104,3 +104,5 @@ CREATE TABLE usuarios (
     fecha_creacion DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 
+
+commit;
